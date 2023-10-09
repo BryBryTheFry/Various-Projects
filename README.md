@@ -2,4 +2,4 @@
 Various projects that I've worked on.
 
 OpenCV Distance Detection:
-I used OpenCV and Mediapipe to detect hand skeletons and calculate distance using the distance between skeleton points.
+A program that uses OpenCV and Mediapipe to detect the distance of a hand from the camera.
