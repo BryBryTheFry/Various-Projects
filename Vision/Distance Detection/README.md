@@ -1,7 +1,7 @@
 # OpenCV Distance Detection
 This is a project that uses OpenCV and Mediapipe to detect and calculate the distance of a hand from the camera.
 
-# Libraries used:
+# Libraries used
 - OpenCV for camera detection
 - Mediapipe for hand skeleton detection
 
