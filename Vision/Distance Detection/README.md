@@ -15,7 +15,7 @@ This is a project that uses OpenCV and Mediapipe to detect and calculate the dis
 - Data points were gathered by printing the distance between points at various distances
 - Accuracy suffers at range due to limited resolution and data points
 
-# Problems
+# Problems and Enhancement
 - Has difficulty detecting hand and distance at longer distances
   - Due to the limited resolution of the camera
   - Also few data points gathered at long distances, so equation is less accurate
