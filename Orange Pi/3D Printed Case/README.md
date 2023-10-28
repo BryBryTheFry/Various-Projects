@@ -12,6 +12,6 @@ This was the final model that fixed the issues with the previous version.
 - The board was extended to cover most of the board
 - A hole was created to allow the fan to blow air onto the board
 - The screw holes were expanded slightly
-There are a few slight issues, none of which are enough to warrant a reprint
+## There are a few slight issues, none of which are enough to warrant a reprint
 - The fan seal isn't great meaning that some of the air flow is wasted
 - Some parts extend farther out than is necessary, such as the speaker area
