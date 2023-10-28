@@ -1,5 +1,6 @@
 # Overview
 This is a 3D printed case for an Orange Pi 5 Plus that will run OpenCV and Yolov5.  It needs to be able to have some things such as fans or speakers attached.
+The models were made using Onshape and exported using UltiMaker Cura before being printed on an Ender 3.
 
 # Version 1
 ### This version was the first model, but had various issues once it was printed.
