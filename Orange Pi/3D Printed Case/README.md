@@ -20,6 +20,6 @@ The models were made using Onshape and exported using UltiMaker Cura before bein
 - The fan seal isn't great meaning that some of the air flow is wasted
 - Some parts extend farther out than is necessary, such as the speaker area
 ### Images
-![alt text](https://github.com/BryBryTheFry/Vision-Projects/blob/main/Orange%20Pi/3D%20Printed%20Case/20231022_160344.jpg)
 ![alt text](https://github.com/BryBryTheFry/Vision-Projects/blob/main/Orange%20Pi/3D%20Printed%20Case/20231022_160512.jpg)
+![alt text](https://github.com/BryBryTheFry/Vision-Projects/blob/main/Orange%20Pi/3D%20Printed%20Case/20231022_160344.jpg)
 ![alt text](https://github.com/BryBryTheFry/Vision-Projects/blob/main/Orange%20Pi/3D%20Printed%20Case/20231022_161522.jpg)
