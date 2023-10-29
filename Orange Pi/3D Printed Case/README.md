@@ -8,6 +8,8 @@ The models were made using Onshape and exported using UltiMaker Cura before bein
 - The board was too small to effectively cover the entire Orange Pi, which meant that the parts meant to hold the fan controller and speaker
 - The board lacked a hole for the fan to blow air into
 - The screw holes were slightly too small, but could be fixed by drilling them
+![image](https://github.com/BryBryTheFry/Vision-Projects/assets/60817103/5b239ec0-b740-4199-bd1a-8ef2a06a971a)
+
 
 # Version 2
 ### This was the final model that fixed the issues with the previous version.
